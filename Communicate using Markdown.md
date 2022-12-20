@@ -6,8 +6,7 @@
 
   
 <Image Section>
-    
-    https://th.bing.com/th/id/R.7d6da0381bf01166d989c69fffc5687d?rik=OyKxbdEjxPRPUA&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f03%2fbest-quotes.jpeg&ehk=bScjEUYGCYsS3zIQrdPTmnRjI3spMMgUey0QWFUV9Ks%3d&risl=&pid=ImgRaw&r=0
+   ![Image](https://th.bing.com/th/id/R.7d6da0381bf01166d989c69fffc5687d?rik=OyKxbdEjxPRPUA&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f03%2fbest-quotes.jpeg&ehk=bScjEUYGCYsS3zIQrdPTmnRjI3spMMgUey0QWFUV9Ks%3d&risl=&pid=ImgRaw&r=0)
     
 <Code Section>
     

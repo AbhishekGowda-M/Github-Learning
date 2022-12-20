@@ -7,16 +7,14 @@
   
 <Image Section>
   
-   ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+   ![Image](https://bornrealist.com/wp-content/uploads/2017/05/warran-buffet.jpg)
     
 <Code Section>
-    
     ```
     $ git init
     Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
     ```
- 
- <Task list Section>
+<Task list Section>
    
    - [x] List syntax is required
    - [x] This item is complete

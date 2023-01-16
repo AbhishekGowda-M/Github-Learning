@@ -1,0 +1,1 @@
+After making your changes, you Push the branch/changes to the server, create a Pull Request (code review) and once approved your changes are Merged into the target branch.
